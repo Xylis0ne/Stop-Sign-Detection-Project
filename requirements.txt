@@ -1,0 +1,5 @@
+cvlib
+gtts
+playsound
+opencv-contrib-python
+matplotlib
