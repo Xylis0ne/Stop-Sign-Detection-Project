@@ -18,7 +18,7 @@ To set up this project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Xylis0ne/Stop-Sign-Detection-Project.git
+    git clone https://github.com/mohammedz1ane/Stop-Sign-Detection-Project.git
     ```
 
 2. Navigate to the project directory:
